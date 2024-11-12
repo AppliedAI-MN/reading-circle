@@ -7,7 +7,7 @@ Each month we are planning to do reading circles where we discuss articles we fi
 
 # Nov 12 2024
 
-** Topic: ** 
+**Topic:** 
 
 A Review of the Role of Artificial Intelligence in Healthcare
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10301994/pdf/jpm-13-00951.pdf
